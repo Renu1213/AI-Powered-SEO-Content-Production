@@ -1,0 +1,19 @@
+# LinkedIn Post: This Blew My Mind: Did You Know You Can...
+- **Author:** Michal Suski
+- **Target Link:** https://www.linkedin.com/posts/michal-suski_this-blew-my-mind-did-you-know-you-can-ugcPost-7270706278581116928-flXo/
+
+## Text Content
+
+This blew my mind 🤯
+
+Did you know you can use Surfer within ChatGPT Canvas mode?
+
+All of Surfer's SEO guidelines inside ChatGPT. Simply install the Chrome extension and boom you can create ready-to-rank content using the power of both these tools.
+
+Bringing this back from our previous Academy episode.
+
+We have something special planned for the next one, so stay tuned.
+
+### Transcript
+
+I will show you something that blow my mind today. So question, question, question. Did you know? Did you know you can use Surfer within ChatGPT within the Canvas mode and you can even import the guidelines and basically work with Canvas with all of the data that Surfer figured out for you? Did you know that? Actually, actually, me neither. And I realized it today how it works. Let me know in the comments if you're using it already and if not. Let me go back to the screen sharing mode and show you how first. First thing is. The surfer for Google Docs. And ChatGPT extension, it's not the same extension as keyword surfer. Just so you know. It's not the same extension. I will paste it in the chat right now so you get it. OK, after we install it, it's a different extension. After you install it. You are able. To go to ChatGPT canvas mode. Let me create a new chat. So you'll see what's going on. I will just ask GPD to open canvas. And there you go, the canvas mode is there. OK. And I've got this surfer icon here. Because I've got the extension. You see, I've got 2 extensions. See my top bar? I got 2 extensions here. 1 is the keyword surfer and the other is the Google doc one. This one. OK, I have a, I have two of those. We will obviously make it easier for you later, but look. I can. Open Surfer within the canvas mode. And let's say I want to write an article about benefits of shilajit. And guess what the canvas will know was was in here. But even better, there's a new button paste guidelines to your ChatGPT canvas. What I did right now and I will ask it like. Read the guidelines. And. Create me an outline of an article. Assign keywords into the. Sections. Be allowed. Addings. And basically what's happening right now? Is. JDU with canvas mode. Wow, look at that, look at that. So I ended up with. Really decent. Really decent. Outline of an article. And obviously that's not it, because in the score is nice. Because I can ask it to. Good job, now please turn bullet. Points into paragraphs 1 bullet equals 1 para. They can be. Carpool off sentences or longer if needed. Use unused keywords from SEO. Lines. Boom. And it's rewriting right now. How do you like it so far? How do you like it so far? Because I like it really much. I would say. I'm done. Wow, OK, the only thing that we could improve in here is the length O. Is there? And I think you would. Add 2D article. If so, add missing sections and as previously, use keywords to explain them. OK. Last shot. I would say that's the last one. We'll see how it goes if you can get a little bit longer than it used to be. If not, I will be fine, I will accept that. And I'm really learning it myself. Right now. OK, we've got it. Yes, yes, Sir. Nice 74. So I'm thinking. How to? Move it. To the content editor. I'm not sure if it will be already there, so I will copy the content just in case it's not there. Let's see webinar. Oh damn, it's already there, or at least it's supposed to be. Is it the score was there but the content is not? Guys empty so all based the content. And we got the score. So well now I will maybe hear the auto optimize button. What do you think? The Surfer Surfer is about to be used. Just give me a moment. OK, we got 81. So I just completed an article about the benefits of shilajit. Using ChatGPT with canvas.
