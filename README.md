@@ -65,6 +65,9 @@ For each expert, the following material was gathered and organized:
 
 ## Repository Structure
 
+## Repository Structure
+
+```text
 AI-Powered-SEO-Content-Production/
 │
 ├── README.md
@@ -107,6 +110,7 @@ AI-Powered-SEO-Content-Production/
 └── scripts/
     ├── scrape_linkedin.py                  # LinkedIn post extraction script
     └── fetch_youtube_transcripts.py        # YouTube transcript collection script
+```
 
 
 ## Tools and Environment
@@ -122,7 +126,6 @@ AI-Powered-SEO-Content-Production/
 ## Process
 
 **Step 01: Repository Setup** 
-
 Created the GitHub repository (AI-Powered-SEO-Content-Production), cloned it locally, and opened it in Cursor IDE. Established the initial project structure with research/ and scripts/ directories before any content collection began.
 
 **Step 02: Expert Research and Source Documentation** 
