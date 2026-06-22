@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+_web_cache/
+scripts/__pycache__/
+scripts/_web_cache/
